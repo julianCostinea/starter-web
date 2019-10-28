@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work.
 Introduction
 
 ## How to contribute
+Please fork this repo and issue pull request for review.
 
 ## Deployment
 
