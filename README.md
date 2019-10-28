@@ -14,4 +14,4 @@ Introduction
 Sample website with plenty of files for demos
 
 ### Copyright
-JCEDevelopment 2019
+JCEDevelopment 2019.
