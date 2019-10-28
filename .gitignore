@@ -1,3 +1,4 @@
 passwords.txt 
 *.log
 /log
+*.orig
