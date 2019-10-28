@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Julian Costinea julian.costinea@gmail.com
 
 # THANKS
 
